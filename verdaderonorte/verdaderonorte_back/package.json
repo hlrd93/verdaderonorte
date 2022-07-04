@@ -1,0 +1,15 @@
+{
+    "name": "verdadero_norte_back",
+    "version": "1.0.0",
+    "description": "Verdadero Norte Back",
+    "author": "Herwin Rey",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1",
+        "express-graphql": "^0.12.0",
+        "graphql": "^15.8.0"
+    }
+}
